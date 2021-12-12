@@ -215,7 +215,6 @@ end;
 INSERT INTO Customer VALUES(7,' Michald',' Smithd',537568234,CONVERT(datetime, '1973-11-08', 120), 'smithmichal@gmail.com',1);
 select * from Customer;
 
-
 -----------------------------------------------
 
 --PROCEDURE 1
